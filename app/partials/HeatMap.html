@@ -1,0 +1,22 @@
+<div class="container">
+    <div>
+        <div class="layout-inline">
+            <div class="title" ng-repeat="dayname in yAxis">
+                <span class="title">{{dayname}}</span>
+            </div>
+        </div>
+        <div class="layout-inline">
+            <div ng-repeat="byY in byX">
+                <div class="layout-inline" ng-repeat="item in byY">
+                    <div class="box" ng-style="item.color"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="layout-inline-hours">
+        <div class="title" ng-repeat="hourname in xAxis">
+            <span class="title">{{hourname}}</span>
+        </div>
+    </div>
+</div>
+

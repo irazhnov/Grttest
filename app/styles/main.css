@@ -1,0 +1,32 @@
+.box {
+    background-color: #127580;
+    color: white;
+}
+
+.title,
+.box{
+    vertical-align: middle;
+    color: white;
+    width: 25px;
+    height: 25px;
+}
+
+.layout-inline {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+.layout-inline-hours {
+    padding-left: 25px;
+    display: -webkit-inline-box;
+}
+
+.container,
+.title {
+    background-color: #145170;
+}
+
+.container {
+    padding: 5px 0 0 5px;
+}

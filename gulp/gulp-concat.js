@@ -1,9 +1,8 @@
 'use strict';
 
-module.exports = function(config, gulp, concat) {
+module.exports = function(gulp, concat, ngAnnotate) {
     var scripts = [
         'node_modules/angular/angular.min.js',
-        'node_modules/angular-route/angular-route.min.js',
         'node_modules/angular-ui-router/release/angular-ui-router.min.js',
         'app/js/configuration/*.js',
         'app/js/controllers/*.js',
@@ -13,5 +12,6 @@ module.exports = function(config, gulp, concat) {
 
     return gulp.src(scripts)
         .pipe(concat('scripts.js'))
-        .pipe(gulp.dest(config.WWW_PATH + '/js/'));
+        .pipe(ngAnnotate())
+        .pipe(gulp.dest('tmp'));
 };

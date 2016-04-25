@@ -4,11 +4,12 @@
   "description": "test heatwave widget ",
   "main": "index.js",
   "scripts": {
+    "gulp":"gulp build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "angular": "^1.5.5",
-    "angular-route": "^1.5.5"
+    "angular-ui-router": "0.2.18"
   },
   "devDependencies": {
     "gulp": "^3.9.0",

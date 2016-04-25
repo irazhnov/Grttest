@@ -1,11 +1,11 @@
 "use strict";
 
-module.exports = function (config, gulp, rename) {
+module.exports = function (gulp, rename) {
     var cssmin = require('gulp-cssmin');
 
 
-    return  gulp.src(config.STYLES_PATH + 'main.css')
+    return  gulp.src('app/styles/main.css')
         .pipe(cssmin())
         .pipe(rename({suffix: '.min'}))
-        .pipe(gulp.dest(config.WWW_PATH + 'styles'));
+        .pipe(gulp.dest('www/styles'));
 };

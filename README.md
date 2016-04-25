@@ -10,10 +10,9 @@ npm install
 ```
 run command to build project.
 ```
-gulp build
+npm run gulp
 ```
 
  The compiled version locatio  in www folder.
 
-  P.S.
-  Tested on windows PC.
+ 

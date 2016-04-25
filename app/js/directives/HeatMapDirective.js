@@ -9,7 +9,6 @@ angular
               model: '=ngModel'
           },
           link: function ($scope, element, attrs){
-              $scope.axisDirection = attrs.axisDirection;
               $scope.sourseDataProvider = attrs.sourseDataProvider;
               $scope.axisXName = attrs.axisXName;
               $scope.axisYName = attrs.axisYName;
@@ -36,7 +35,7 @@ angular
                   }
               });
 
-              $scope.$watch('axisDirection', function(value) {
+              $scope.$watch('axisXName', function(value) {
                   self.setAxises();
                   if(initialData)
                       self.handleModelChange(value);
@@ -116,7 +115,6 @@ angular
 
               this.convertRange = function () {
                   scaleRange = (100) / (maxValue - minValue);
-                  console.log('scaleRange' + scaleRange);
               };
 
               this.getLengthBy = function (value) {
@@ -126,7 +124,6 @@ angular
                   }else {
                       quantity = HOURS_QUANTITY;
                   }
-                  console.log('byY' + quantity);
                   return quantity;
               };
 

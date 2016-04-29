@@ -1,0 +1,1613 @@
+{
+  "error" : 0,
+  "processingTimeMs" : 400,
+  "result" : [ {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 0
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 10.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 10
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 110.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 11
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 410.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 12
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 20.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 13
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 10.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 14
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 100.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 15
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 20.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 16
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 50.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 17
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 80.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 18
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 100.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 19
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 100.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 2
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 80.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 20
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 20.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 23
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 20.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 3
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 20.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 4
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 20.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 7
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 90.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 1,
+      "timeId" : 9
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 20.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 10
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 620.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 11
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 200.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 12
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 140.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 13
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 40.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 14
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 370.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 15
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 40.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 16
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 110.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 17
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 120.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 18
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 350.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 19
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 190.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 20
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 40.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 21
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 150.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 22
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 70.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 7
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 90.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 8
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 180.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 2,
+      "timeId" : 9
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 240.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 10
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 400.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 11
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 560.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 12
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 370.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 13
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 520.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 14
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 190.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 15
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 70.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 16
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 180.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 17
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 260.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 18
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 310.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 19
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 140.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 2
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 50.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 20
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 110.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 21
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 240.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 22
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 70.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 23
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 40.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 4
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 110.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 7
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 120.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 8
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 180.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 3,
+      "timeId" : 9
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 260.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 10
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 610.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 11
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 510.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 12
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 300.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 13
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 590.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 14
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 310.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 15
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 240.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 16
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 100.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 17
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 160.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 18
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 670.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 19
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 160.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 20
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 120.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 21
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 50.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 22
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 20.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 23
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 280.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 6
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 50.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 7
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 140.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 8
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 220.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 4,
+      "timeId" : 9
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 280.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 0
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 120.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 1
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 50.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 10
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 670.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 11
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 650.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 12
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 620.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 13
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 270.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 14
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 360.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 15
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 400.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 16
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 110.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 17
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 100.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 18
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 400.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 19
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 260.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 20
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 70.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 21
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 130.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 22
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 180.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 23
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 210.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 3
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 80.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 5
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 60.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 6
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 80.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 7
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 260.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 8
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 100.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 5,
+      "timeId" : 9
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 350.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 0
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 110.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 10
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 510.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 11
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 440.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 12
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 550.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 13
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 450.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 14
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 400.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 15
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 220.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 16
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 390.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 17
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 480.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 18
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 430.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 19
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 120.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 20
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 50.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 21
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 120.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 22
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 300.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 23
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 140.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 4
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 110.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 5
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 50.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 6
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 100.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 7
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 10.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 6,
+      "timeId" : 9
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 260.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 0
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 90.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 10
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 110.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 11
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 360.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 12
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 130.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 13
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 170.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 14
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 250.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 15
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 100.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 16
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 180.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 17
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 310.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 18
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 320.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 19
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 310.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 2
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 130.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 20
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 160.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 21
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 100.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 22
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 50.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 23
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 180.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 4
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 50.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 6
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 50.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 7
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 50.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 8
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 80.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  }, {
+    "index" : {
+      "daysId" : 7,
+      "timeId" : 9
+    },
+    "data" : {
+      "Site Heat Severity Map (lv10)" : [ {
+        "rank" : 1,
+        "value" : 130.0,
+        "timestamp" : 1453738609000
+      } ]
+    }
+  } ]
+}

@@ -4,6 +4,9 @@ angular
     .controller('StartCtrl', ['$scope', 'heatMapService',  function ($scope, heatMapService) {
         console.log('StartCtrl');
         heatMapService.getHeatData(function (result) {
-            $scope.model = result;
+            $scope.modelMap = result;
+        });
+        heatMapService.getHeatMapData(function (result) {
+            $scope.modelHeatMap = result;
         });
     }]);

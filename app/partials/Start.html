@@ -1,11 +1,12 @@
 <div>
-    <heat-map axis-x-name="hour" axis-y-name="day"
-              axis-x-sourse="hourId" axis-y-sourse="dowId"
-              sourse-data-provider = "Site Incident Heat Severity Map (lv12)"
-              ng-model="model"></heat-map>
-    <heat-map axis-x-name="day" axis-y-name="hour"
-              axis-x-sourse="dowId" axis-y-sourse="hourId"
-              sourse-data-provider = "Site Incident Heat Severity Map (lv12)"
-              ng-model="model"></heat-map>
+    <heat-map axis-x-name ="hour" axis-y-name="day"
+              model-map = "modelMap"
+              axis-x-sourse ="hourId" axis-y-sourse="dowId"
+              sourse-data-provider = "Site Incident Heat Severity Map (lv12)"></heat-map>
+    <heat-map axis-x-name ="day" axis-y-name="hour"
+              model-map = "modelHeatMap"
+              axis-x-sourse ="daysId" axis-y-sourse="timeId"
+              sourse-data-provider = "Site Heat Severity Map (lv10)"></heat-map>
 </div>
+
 
